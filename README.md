@@ -5,7 +5,7 @@ Formula
 
 ## Install from tap
 ```
-brew tap opsdev-ws/Formula
+brew tap opsdev-ws/formula
 # install a formula
 # force link if required
 brew install srm
@@ -14,7 +14,7 @@ brew link --force srm
 
 ## Install from local
 ```
-git clone git@github.com:opsdev-ws/Formula.git
+git clone git@github.com:opsdev-ws/homebrew-formula.git
 cd Formula
 # install a formula
 # force link if required
