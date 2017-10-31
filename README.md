@@ -15,7 +15,7 @@ brew link --force srm
 ## Install from local
 ```
 git clone git@github.com:opsdev-ws/homebrew-formula.git
-cd Formula
+cd homebrew-formula
 # install a formula
 # force link if required
 brew install ./srm.rb
